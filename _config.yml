@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin:https://www.linkedin.com/in/jaylin-cooke-williams/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -47,7 +47,7 @@ url: http://zerodayjays.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://jin-sanity/github.io/zerodayjays.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
